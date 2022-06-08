@@ -7,3 +7,4 @@ Gmail: cristian.capa20@gmail.com
 TikTok: capitacr
 Instagram: capita_cr
 I have some websites deployed on the web: https://app.netlify.com/teams/cristiancr20/overview
+![alt text]([http://url/to/img.png](https://img2.freepng.es/20180619/fwl/kisspng-web-development-html-cascading-style-sheets-css3-b-minimalist-resume-5b29b19ed3e716.037890201529459102868.jpg))
