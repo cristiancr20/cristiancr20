@@ -8,3 +8,5 @@ TikTok: capitacr
 Instagram: capita_cr
 I have some websites deployed on the web: https://app.netlify.com/teams/cristiancr20/overview!
 
+![html](https://user-images.githubusercontent.com/68016998/172693902-d7d22812-d7fc-4b3a-94e4-c3040ee6f03d.png)
+![css](https://user-images.githubusercontent.com/68016998/172693707-4a059b6e-3796-4f4a-b40f-8ff17dab91fe.jpg)
