@@ -19,9 +19,9 @@
 <a href="https://tiktok.com/@capitacr.code" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/190/385/png-transparent-tik-tok-thumbnail.png" alt="capita_cr" height="30" width="35" /></a> <a href="https://discord.gg/https://discord.gg/wBQ5xNKH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/wBQ5xNKH" height="30" width="40" /></a>
 </p>
 
-<p>👨‍💻 All of my projects are available at: https://cristiancr20.github.io/Portfolio/</p>
+<p>👨‍💻 All of my projects are available at: https://crcode.vercel.app/</p>
 
-<p> 🧑‍💻To see my FrontEnd designs visit: https://app.netlify.com/teams/cristiancr20/overview </p>
+<p> 🧑‍💻To see my FrontEnd designs visit: https://app.netlify.com/teams/cristiancr20/</p>
 
 
 <h2 align="center">Languages and Tools:</h2>
