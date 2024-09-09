@@ -9,21 +9,6 @@
 <p align="left">🎒 Looking to collaborate on professional projects to gain experience and apply my skills.</p>
 <p align="left">💞️ A passionate frontend developer.</p>
 
-<h2 align="center">Connect with me:</h2>
-<p align="center">📫 How to contact me:</p>
-<p align="center">
-  <a href="mailto:cristian.capa20@gmail.com">Gmail: cristian.capa20@gmail.com</a>
-</p>
-<p align="center">
-  <a href="https://codepen.io/cristian-capa" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" /></a>
-  <a href="https://instagram.com/capita_cr" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://tiktok.com/@capitacr.code" target="blank"><img src="https://w7.pngwing.com/pngs/190/385/png-transparent-tik-tok-thumbnail.png" alt="TikTok" height="30" width="35" /></a>
-  <a href="https://discord.gg/wBQ5xNKH" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
-</p>
-
-<p align="center">👨‍💻 All of my projects are available at: <a href="https://crcode.vercel.app/">crcode.vercel.app</a></p>
-<p align="center">🧑‍💻 To see my FrontEnd designs, visit: <a href="https://app.netlify.com/teams/cristiancr20/">Netlify</a></p>
-
 <h2 align="center">Languages and Tools:</h2>
 
 <h3 align="center">FrontEnd</h3>
@@ -40,3 +25,22 @@
 <p align="center">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /></a>
 </p>
+
+
+
+<h2 align="center">Connect with me:</h2>
+<p align="center">📫 How to contact me:</p>
+<p align="center">
+  <a href="mailto:cristian.capa20@gmail.com">Gmail: cristian.capa20@gmail.com</a>
+</p>
+<p align="center">
+  <a href="https://codepen.io/cristian-capa" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" /></a>
+  <a href="https://instagram.com/capita_cr" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://tiktok.com/@capitacr.code" target="blank"><img src="https://w7.pngwing.com/pngs/190/385/png-transparent-tik-tok-thumbnail.png" alt="TikTok" height="30" width="35" /></a>
+  <a href="https://discord.gg/wBQ5xNKH" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+</p>
+
+<p align="center">👨‍💻 All of my projects are available at: <a href="https://crcode.vercel.app/">crcode.vercel.app</a></p>
+<p align="center">🧑‍💻 To see my FrontEnd designs, visit: <a href="https://app.netlify.com/teams/cristiancr20/">Netlify</a></p>
+
+
