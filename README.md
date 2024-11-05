@@ -28,19 +28,23 @@
 
 
 
-<h2 align="center">Connect with me:</h2>
+## 🌐 Socials:
 <p align="center">📫 How to contact me:</p>
 <p align="center">
   <a href="mailto:cristian.capa20@gmail.com">Gmail: cristian.capa20@gmail.com</a>
 </p>
-<p align="center">
-  <a href="https://codepen.io/cristian-capa" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" /></a>
-  <a href="https://instagram.com/capita_cr" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://tiktok.com/@capitacr.code" target="blank"><img src="https://w7.pngwing.com/pngs/190/385/png-transparent-tik-tok-thumbnail.png" alt="TikTok" height="30" width="35" /></a>
-  <a href="https://discord.gg/wBQ5xNKH" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
-</p>
 
 <p align="center">👨‍💻 All of my projects are available at: <a href="https://crcode.vercel.app/">crcode.vercel.app</a></p>
-<p align="center">🧑‍💻 To see my FrontEnd designs, visit: <a href="https://app.netlify.com/teams/cristiancr20/">Netlify</a></p>
 
+[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?logo=GitHub&logoColor=white)](https://github.com/cristiancr20)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/4UPYhf6t) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/capita_Cr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-capa/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@capitacr.code) [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=Vercel&logoColor=white)](https://vercel.com/cristian-capas-projects)
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=cristiancr20&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=cristiancr20&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiancr20&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=cristiancr20&icon=6&color=11)](https://visitcount.itsvg.in)
 
